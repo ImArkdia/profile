@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+form div{
+    margin-bottom: 20px;
+}
+
+body{
+    width: 100%;
+    height: 500px;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(52, 58, 150);
+    height: 96px;
+}
+
+.username{
+    display: flex;
+    height: 100%;
+    width: 40%;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+main div{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+.username div{
+    display: flex;
+    align-items: center;
+    width: 10%;
+    height: 100%;
+}
+#logout{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-left: 1%;
+    
+}
+a, a:hover, a:visited{
+    color: inherit;
+}
+html{
+    background-color: rgb(128, 128, 128);
+}
