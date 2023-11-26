@@ -94,5 +94,8 @@
             <?php echo $err;?>
         </form>
     </div>
+    <div>
+        <a href="./register.php">Registrarse</a>
+    </div>
 </body>
 </html>

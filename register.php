@@ -116,5 +116,8 @@
             <?php echo $err;?>
         </form>
     </div>
+    <div>
+        <a href="./login.php">Log in</a>
+    </div>
 </body>
 </html>
